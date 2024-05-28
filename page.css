@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://africa.itdp.org/wp-content/uploads/2021/03/21426204754_45999c7105_o-1024x683.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    font-size: 50px;
+    color:rgb(31, 120, 246);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+h5 {
+    font-size : 25px;
+    color:rgb(27, 109, 196);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+}
+nav ul{
+    float:inline-end;
+    line-height: 0px;
+}
+nav ul li{
+    display:inline-block;
+    list-style: none;
+    padding: 0px 5px;
+}
