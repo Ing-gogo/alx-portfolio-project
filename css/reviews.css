@@ -1,0 +1,20 @@
+body{
+    background-image: url('https://th.bing.com/th/id/R.a29d24109203a97d109ed73bf57ea55d?rik=QsqnIdSZJxwNVA&pid=ImgRaw&r=0');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+body h1{
+    font-style:italic;
+    font-size:50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:navy;
+    text-align: left;
+    text-decoration: solid;
+    text-shadow:3cm;
+}
+body  textarea{
+    background-color:beige;
+    padding:7px;
+    shape-margin: 2%;
+}
