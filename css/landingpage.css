@@ -34,4 +34,15 @@ nav ul li a:hover{
     background-color:rgb(31, 120, 246) ;
     transition: 0.5s ease;
 }
+.article{
+    text-align: center;
+}
+.article .btn{
+    color:#fff;
+    padding: 10px 20px;
+    letter-spacing: 1px;
+    background-color: rgb(31, 120, 246);
+    text-decoration: none;
+    text-align:center;
 
+}

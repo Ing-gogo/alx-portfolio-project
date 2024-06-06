@@ -1,0 +1,16 @@
+body h1{
+    color:rgb(31, 120, 246);
+    text-align:left;
+    text-decoration: solid;
+    text-transform:capitalize;
+    font-style:italic;
+    font-size:50px;
+}
+body{
+    background-color: bisque;
+}
+body h5{
+    font-size:21.5px;
+    font-family:'Times New Roman', Times, serif;
+}
+

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding:  0;
+}
+body h1 {
+    text-align: center;
+    color:rgb(31, 120, 246);
+}
+.search{
+    float: right;
+}
+
+.table-box{
+    margin:70px auto;
+}
+.table-row{
+    display:table;
+    width: 80%;
+    margin: 12px auto;
+    font-family:'Times New Roman', Times, serif;
+    background: transparent;
+    padding: 12px 0;
+    color:rgb(31, 120, 246);
+    font-size: 13px;
+    box-shadow: 0 1px 5px 0 rgb(31, 120, 246);
+
+}
+.table-cell {
+    display: table-cell;
+    width: 30%;
+    text-align: center;
+    padding: 4px 0;
+    border-right: 1.5px solid black;
+    vertical-align: middle;
+}
+.table-head {
+    background:rgba(31, 120, 246) ;
+    box-shadow: none;
+    color: black;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
